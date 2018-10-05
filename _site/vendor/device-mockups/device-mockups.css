@@ -376,6 +376,11 @@
 	background-image: url("ipad/ipad_port_black.png");
 }
 
+.device-mockup.iphonex.black > .device,
+.device-mockup.iphonex.portrait.black > .device {
+	background-image: url("iphonex/iphonex.jpg");
+}
+
 .device-mockup.ipad.white > .device,
 .device-mockup.ipad.portrait.white > .device {
 	background-image: url("ipad/ipad_port_white.png");

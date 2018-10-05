@@ -130,6 +130,11 @@
 	padding-bottom: 210.57%;
 }
 
+.device-mockup.iphonex.black > .device,
+.device-mockup.iphonex.portrait.black > .device {
+	background-image: url("iphonex/iphonex.jpg");
+}
+
 .device-mockup[data-device="iphone5"][data-orientation="landscape"] {
 	padding-bottom: 47.49%;
 }
