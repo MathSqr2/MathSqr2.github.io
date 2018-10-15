@@ -17,12 +17,10 @@ disqus_account: jeky-new-age
 
 # Social networks usernames (many more available: flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.) see all icon at fontawesome.io
 social:
-  - title: twitter
-    url: https://twitter.com/lantoniotrento
   - title: facebook
-    url: https://facebook.com/lantoniotrento
-  #- title: github
-  #  url: http://github.com/jekyll
+    url: https://facebook.com/afonso.guima
+  - title: github
+    url: https://github.com/MathSqr2
 
 # Build settings
 markdown: kramdown
