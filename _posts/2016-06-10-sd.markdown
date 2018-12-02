@@ -1,0 +1,17 @@
+---
+layout:     post
+title:      "Segunda entrega"
+subtitle:   "Visão de projeto, 'Business Modelling' e Casos de uso"
+date:       2018-11-09 12:00:00
+author:     "Equipa 2"
+header-img: "img/post-bg-02.jpg"
+categories: jekyll
+---
+
+<p> <h2><b>Documentos referentes a esta entrega:</b> </h2>
+<ul>
+  <li> Relatório de Especificação:Análise de Requisitos [Atualização] <a href="https://drive.google.com/file/d/1s_Y9FwDO1abRO9f_qHYe2RfNmWZkUdUc/view?usp=sharing
+">[link]</a></li>
+  <li> Protótipo <a href="https://drive.google.com/file/d/136i3YWNe5cK9DSAPuKzJ90ybJGvYe1vf/view?usp=sharing">[link]</a></li>
+</ul>
+ 
