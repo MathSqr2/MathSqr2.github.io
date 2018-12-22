@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Quarta entrega"
-subtitle:   "Visão de projeto, 'Business Modelling' e Casos de uso"
+subtitle:   "Relatório: Garantia de Qualidade (Critérios de aceitação)"
 date:       2018-12-21 12:00:00
 author:     "Equipa 2"
 header-img: "img/post-bg-05.jpg"
